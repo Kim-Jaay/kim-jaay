@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom';
 import LIST from '../data/List';
-import '../css/Cos.scss'
+import '../css/Ami.scss'
 
 
 
@@ -10,7 +10,7 @@ const Ami = () => {
     const { id } = useParams()
     const matchId = LIST.find(it => it.id == id);
     return (
-        <div className='Cos Con'>
+        <div className='Ami Con'>
             <div className="inner">
                 <video
                     autoPlay
