@@ -45,4 +45,4 @@ const Cos = () => {
     )
 }
 
-export default Cos
+export default Ami

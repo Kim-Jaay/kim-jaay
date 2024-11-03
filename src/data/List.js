@@ -182,7 +182,7 @@ const LIST = [
         des2: '홈페이지 리디자인을 통한 브랜드 아이덴티티 구축, \n브랜드가 가진 미니멀한 이미지와 제품을 효과적으로 전달할 수 있는 브랜드 전략 수립.',
         tools: [' Figma /', ' Photoshop'],
         period: '3 Months',
-        field: ['UXUI Design /', ' Web Design /'],
+        field: ['Web Design 100%'],
     },
 
 
