@@ -19,6 +19,7 @@ import Louvre from '../ListPages/Louvre';
 import Sealife from '../ListPages/Sealife'
 import Cos from '../ListPages/Cos';
 import Ami from '../ListPages/Ami';
+import Achromat from '../ListPages/Achromat';
 
 
 const SubPageBanner = () => {
@@ -43,7 +44,8 @@ const SubPageBanner = () => {
         { id: 12, con: <Louvre /> },
         { id: 13, con: <Sealife /> },
         { id: 14, con: <Cos /> },
-        { id: 15, con: <Ami /> }
+        { id: 15, con: <Ami /> },
+        { id: 16, con: <Achromat /> }
     ]
 
 

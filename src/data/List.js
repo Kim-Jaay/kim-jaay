@@ -183,6 +183,18 @@ const LIST = [
         period: '3 Months',
         field: ['Web Design'],
     },
+    {
+        id: 16,
+        name: 'Achromat',
+        title: 'Achromat',
+        link: '/16',
+        outlink: 'https://achromat2024.mycafe24.com/',
+        des1: '아미글로벌은 재활을 위한 고품질 서포트 제품을 개발하는 기업으로, \n일상생활에서 불편함을 겪는 사람들의 삶의 질 향상을 목표로 하고 있습니다. ',
+        des2: '브랜드 이미지를 강화하기 위해 로고, 색상, 폰트 등 일관성 있는 디자인 요소를 사용하고, 재활 전문 기업으로서의 신뢰성과 친근함을 표현하기 위해 \n따뜻하고 안정감 있는 색상과 간결한 레이아웃를 통해 정확한 정보를 전달합니다.',
+        tools: ['Photoshop ・',' Gnuboard'],
+        period: '3 Months',
+        field: ['Web Design ・', ' Publishing'],
+    },
 
 
 ]
