@@ -174,7 +174,7 @@ const LIST = [
     {
         id: 15,
         name: 'Ami',
-        title: 'Amiglobal',
+        title: 'Ami Global',
         link: '/15',
         outlink: 'https://www.a-mi.co.kr/',
         des1: 'COS는 Collection of style의 약자로 미니멀한 디자인으로 유명한 프리미엄 스파 브랜드입니다. \n브랜드가 추구하는 이미지를 잘 드러낼 수 있는 구성으로 리디자인 진행했습니다.',
