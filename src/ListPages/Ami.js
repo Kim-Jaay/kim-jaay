@@ -5,7 +5,7 @@ import '../css/Cos.scss'
 
 
 
-const Cos = () => {
+const Ami = () => {
 
     const { id } = useParams()
     const matchId = LIST.find(it => it.id == id);
