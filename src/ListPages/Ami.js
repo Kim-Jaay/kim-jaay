@@ -12,13 +12,7 @@ const Ami = () => {
     return (
         <div className='Ami Con'>
             <div className="inner">
-                <video
-                    autoPlay
-                    loop
-                    muted
-                    src={process.env.PUBLIC_URL + '/assets/img/sub14_00.mp4'}
-                    className='banner'
-                />
+            <img src={process.env.PUBLIC_URL + '/assets/img/sub15_00.jpg'} alt="" className='banner' />
                 <div className="inner1200 subcon">
                     <h2>{matchId.title}</h2>
                     <p>{matchId.des2}</p>
