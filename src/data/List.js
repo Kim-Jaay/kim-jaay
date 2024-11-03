@@ -170,7 +170,7 @@ const LIST = [
         tools: ['React /', ' Figma /', ' Photoshop'],
         period: '14 Days',
         field: ['UXUI Design /', ' Web Design /', ' Web Development'],
-    },,
+    },
     {
         id: 15,
         name: 'Ami',

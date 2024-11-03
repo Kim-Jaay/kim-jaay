@@ -19,7 +19,7 @@ const Main = () => {
                             LIST
                                 .map((it, idx) => {
                                     return (
-                                        <li key={idx} data-aos="fade-up" data-aos-delay={100 * idx} data-aos-duration="300"  >
+                                        <li key={idx} data-aos="fade-up" data-aos-delay={100 * idx} data-aos-duration="150"  >
                                             <Link to={it.link}>
                                                 <img src={process.env.PUBLIC_URL + `/assets/img/main_0${idx + 1}.png`} alt="" />
                                             </Link>

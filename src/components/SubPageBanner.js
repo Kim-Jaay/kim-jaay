@@ -43,7 +43,7 @@ const SubPageBanner = () => {
         { id: 12, con: <Louvre /> },
         { id: 13, con: <Sealife /> },
         { id: 14, con: <Cos /> },
-        { id: 15, con: <Ami /> },
+        { id: 15, con: <Ami /> }
     ]
 
 
